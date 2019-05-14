@@ -17,3 +17,20 @@ git 创建本地仓库步骤
 		[user]
 			name = xxx
 			email = xxx.@qq.com
+			
+	3.查看状态
+		git status
+			
+	4.添加文件
+		git add 文件名(单个文件)
+		git add . (所有文件)
+		
+		
+	5.删除文件
+		git rm 文件名
+		
+	6.提交文件
+		git commit -m "描述"
+		
+	
+		

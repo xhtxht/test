@@ -1,0 +1,19 @@
+创建文件：window: type nul>text.txt;  linux: touch test.txt
+
+创建文件夹： mkdir 文件夹名称
+
+
+
+
+
+git 创建本地仓库步骤
+
+	1.git init （初始化本地仓库，生成.git隐藏文件）
+	
+	2.设置仓库信息
+		git config --global user.name xxx
+		git config --global user.email xxx.@qq.com
+		(也可以打开.git/config 文件 手动更改,格式如下：
+		[user]
+			name = xxx
+			email = xxx.@qq.com

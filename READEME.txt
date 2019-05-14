@@ -32,5 +32,11 @@ git 创建本地仓库步骤
 	6.提交文件
 		git commit -m "描述"
 		
+	7.上传到服务器
+		git push 远程地址 master
+		
+	8.从服务器上获得修改
+		git pull 远程地址 master
+		
 	
 		
